@@ -1,7 +1,8 @@
 # ytdownloadertk
 
-simple gui based youtube downloader 
+* Simple gui based youtube downloader created using tkinter library. 
+* Download video in just one click.
+* Supports multiple resolutions to download from.
+* Supports audio download as well.
 
-You can download youtube vidoes of different resolutions of your choice
 
-It supports audio download as well
